@@ -1,0 +1,1 @@
+# AI-Based-Waste-Segregation-and-Smart-Bin-Monitoring-System
