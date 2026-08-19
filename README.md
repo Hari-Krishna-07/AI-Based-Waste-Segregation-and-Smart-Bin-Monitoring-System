@@ -597,9 +597,7 @@ The proposed system can be adapted for:
 - Offices
 - Laboratories
 - Parks
-- Public spaces
 - Small-scale recycling facilities
-- Smart-city waste-management prototypes
 
 ---
 
