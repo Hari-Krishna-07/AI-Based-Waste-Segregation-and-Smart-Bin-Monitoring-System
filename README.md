@@ -780,13 +780,11 @@ Smart Waste Segregation
 
 **Hari Krishna R**
 
-**Sindhu S**
+**Kajal K**
 
 **Jeeva V**
 
-**Kajal K**
-
-
+**Sindhu S**
 
 ---
 
