@@ -1,5 +1,4 @@
 # AI-Based-Waste-Segregation-and-Smart-Bin-Monitoring-System
-# AI-Based Smart Waste Segregation and Management System
 
 An AI and embedded-systems-based smart waste segregation system that automatically identifies waste as **Plastic, Paper, Glass, or Metal** and controls a servo-based segregation mechanism using an **ESP32**.
 
