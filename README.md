@@ -779,8 +779,11 @@ Smart Waste Segregation
 ## 👨‍💻 Author
 
 **Hari Krishna R**
+
 **Sindhu S**
+
 **Jeeva V**
+
 **Kajal K**
 
 
