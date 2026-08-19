@@ -749,18 +749,6 @@ The system uses **YOLOv8 for feature extraction and SVM for final classification
 
 The project provides a foundation for developing a more advanced smart waste-management system with IoT connectivity, additional waste categories, improved AI models, and real-time monitoring.
 
----
-
-## 👨‍💻 Author
-
-**Hari Krishna**
-
-Biomedical Engineering Student  
-Embedded Systems Enthusiast  
-Healthcare Technology Learner
-
----
-
 ## ⭐ Project Highlights
 
 ```text
@@ -784,6 +772,18 @@ ESP32
       ▼
 Smart Waste Segregation
 ```
+
+---
+---
+
+## 👨‍💻 Author
+
+**Hari Krishna R**
+**Sindhu S**
+**Jeeva V**
+**Kajal K**
+
+
 
 ---
 
